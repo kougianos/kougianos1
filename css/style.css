@@ -214,7 +214,7 @@ figure figcaption {
 	bottom: 7px;
 	left: 0;
 	right: 0;
-	background-color: #D72A69;
+	background-color: #a21d1d;
 	visibility: hidden;
 	-webkit-transform: scaleX(0);
 	-moz-transform: scaleX(0);
@@ -243,7 +243,7 @@ figure figcaption {
 }
 
 #grizzledwizard-aside #grizzledwizard-main-menu ul li.active a {
-	color: #D72A69;
+	color: #a21d1d;
 }
 
 #grizzledwizard-aside #grizzledwizard-main-menu ul li.active a:after {
@@ -413,7 +413,8 @@ figure figcaption {
 #grizzledwizard-hero .flexslider .slider-text>.slider-text-inner h2 {
 	margin: 0;
 	padding: 0;
-	color: #d72a69;
+	color: #a21d1d;
+	color: #a21d1d;
 	font-family: "Playfair Display", Georgia, serif;
 }
 
@@ -621,7 +622,7 @@ body.offcanvas .grizzledwizard-nav-toggle {
 	letter-spacing: 1px;
 	text-transform: uppercase;
 	font-family: "Quicksand", Arial, sans-serif;
-	background-color: #d72a69;
+	background-color: #a21d1d;
 	color: #fff;
 	position: relative;
 	-webkit-box-shadow: none !important;
@@ -739,7 +740,7 @@ body.offcanvas .grizzledwizard-nav-toggle {
 }
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-2 {
-	background: #d72a69;
+	background: #a21d1d;
 }
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-3 {
@@ -1691,17 +1692,17 @@ body.offcanvas .grizzledwizard-nav-toggle {
 }
 
 .btn-primary {
-	background: #d72a69;
+	background: #a21d1d;
 	color: #fff;
-	border: 2px solid #d72a69;
+	border: 2px solid #a21d1d;
 	font-weight: bold;
 }
 
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active {
-	background: #ff025c !important;
-	border-color: #ff025c !important;
+	background: #d82727 !important;
+	border-color: #d82727 !important;
 }
 
 .btn-primary.btn-outline {
@@ -1878,7 +1879,7 @@ body.offcanvas .grizzledwizard-nav-toggle {
 
 .grizzledwizard-nav-toggle.active i::before,
 .grizzledwizard-nav-toggle.active i::after {
-	background: #d72a69;
+	background: #a21d1d;
 }
 
 .grizzledwizard-nav-toggle.dark.active i::before,
@@ -1905,7 +1906,7 @@ body.offcanvas .grizzledwizard-nav-toggle {
 	font: bold 14px/.4 Helvetica;
 	text-transform: uppercase;
 	text-indent: -55px;
-	background: #d72a69;
+	background: #a21d1d;
 	-webkit-transition: all .2s ease-out;
 	-o-transition: all .2s ease-out;
 	transition: all .2s ease-out;
@@ -1916,7 +1917,7 @@ body.offcanvas .grizzledwizard-nav-toggle {
 	content: '';
 	width: 30px;
 	height: 2px;
-	background: #d72a69;
+	background: #a21d1d;
 	position: absolute;
 	left: 0;
 	-webkit-transition: 0.2s;
@@ -2062,18 +2063,18 @@ body.offcanvas .grizzledwizard-nav-toggle {
 }
 
 .grizzledwizard-footer a {
-	color: #D72A69;
+	color: #a21d1d;
 	font-weight: bold;
 }
 
 .grizzledwizard-footer i {
-	color: #D72A69;
+	color: #a21d1d;
 	transition: 0.5s;
 }
 
 .grizzledwizard-footer i:hover,
 .grizzledwizard-footer a:hover {
-	color: rgb(255, 208, 0);
+	color: #d82727;
 }
 
 .grizzledwizard-footer ul {
@@ -2095,7 +2096,7 @@ body.offcanvas .grizzledwizard-nav-toggle {
 /* SCROLL TO TOP BUTTON */
 #buttonScrollTop {
 	display: inline-block;
-	background-color: #D72A69;
+	background-color: #a21d1d;
 	width: 50px;
 	height: 50px;
 	text-align: center;
@@ -2141,6 +2142,6 @@ body.offcanvas .grizzledwizard-nav-toggle {
 }
 
 #university-links a{
-	color: #D72A69;
+	color: #a21d1d;
 	font-weight: bold;
 }
