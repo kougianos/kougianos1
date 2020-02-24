@@ -18,7 +18,7 @@ body {
 	font-size: 15px;
 	line-height: 1.8;
 	color: rgba(0, 0, 0, 0.7);
-	background-image: url("../images/bricks.jpg");
+	/* background-image: url("../images/bricks.jpg"); */
 }
 
 @media screen and (max-width: 992px) {
@@ -307,7 +307,7 @@ figure figcaption {
 
 #grizzledwizard-main {
 	/* background-color: white; */
-	background: url("../images/bricks.jpg");
+	/* background: url("../images/bricks.jpg"); */
 	width: calc(100% - 300px);
 	float: right;
 	-webkit-transition: 0.5s;
@@ -2054,7 +2054,7 @@ body.offcanvas .grizzledwizard-nav-toggle {
 /* CUSTOM CSS */
 
 #grizzledwizard-page {
-	background-color: #00000080;
+	background-color: #96969680;
 }
 
 #grizzledwizard-aside>div>span>a {
